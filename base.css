@@ -171,14 +171,14 @@
   height: calc(var(--icon) / 3);
   width: calc(var(--icon) / 3);
 }
-.guilds-1SWlCJ .wrapper-shyHJt {
+.guilds-1SWlCJ .wrapper-3Njo_c {
   width: var(--container);
 }
-.guilds-1SWlCJ .wrapper-shyHJt .folder-3Njo_c,
-.guilds-1SWlCJ .wrapper-shyHJt .folderIconWrapper-226oVY {
+.guilds-1SWlCJ .wrapper-3Njo_c .folder-3Njo_c,
+.guilds-1SWlCJ .wrapper-3Njo_c .folderIconWrapper-226oVY {
   background: transparent;
 }
-.guilds-1SWlCJ .wrapper-shyHJt .expandedFolderBackground-1cujaW {
+.guilds-1SWlCJ .wrapper-3Njo_c .expandedFolderBackground-1cujaW {
   left: 50%;
   transform: translateX(-50%);
   width: var(--server-icon-size);
