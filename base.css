@@ -178,7 +178,7 @@
 .guilds-2JjMmN .wrapper-38slSD .folderIconWrapper-1oRIZr {
   background: transparent;
 }
-.guilds-2JjMmN .wrapper-38slSD .expandedFolderBackground-1kSAf6 {
+..guilds-2JjMmN.wrapper-1_HaEi {
   left: 50%;
   transform: translateX(-50%);
   width: var(--server-icon-size);
